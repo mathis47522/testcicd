@@ -1,4 +1,4 @@
 from helloword import addition
 
 def test_addition():
-    assert addition(2, 3) == 6
+    assert addition(2, 3) == 5
